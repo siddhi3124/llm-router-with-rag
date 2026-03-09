@@ -17,7 +17,7 @@ storage/
 *.db
 
 # Data to ingest
-data/raw_data/
+data/raw_docs/
 
 # OS
 .DS_Store
